@@ -1,10 +1,13 @@
-def main ():
-    deep = input("What is the Answer to the Great Qeustion of Life, the Universe, and Everything ?\n").lower()
-    deep = deep.strip()
-    if deep == "42" or deep == "forty-two" or deep == "forty two" :
-        print("Yes")
-    else :
-        print("No")
-    return
+import re
 
-main()
+def main():
+    pattern = r'^\s*(42|forty[- ]two)\s*$'
+    inpt = input("What is the Answer to the Great Question of Life, the Universe, and Everything? ")
+    if re.fullmatch(pattern, inpt, re.IGNORECASE) is not None:
+        print("Yes")
+    else:
+        print("No")
+
+
+if __name__ == "__main__":
+    main()
