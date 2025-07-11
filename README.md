@@ -4,4 +4,4 @@ This repository is an overview of the work done to complete HarvardX's "CS50's I
 
 The folder "0_First_Time"  is composed of the codes I wrote when I was frist learning Python.
 
-The Problem Sets "PBsets#" in the main folder are the same Problems Sets, but wrote more recently, after having gained some experience programming.
+The Problem Sets "PBsets#" in the main folder are the same as in "0_First_Time", but wrote more recently, after having gained some experience programming.
