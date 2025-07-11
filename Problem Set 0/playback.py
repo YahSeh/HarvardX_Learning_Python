@@ -1,3 +1,7 @@
-pb = str(input("Say something :\n")).replace(" ", "...")
+def main():
+    inpt = input("Write a phrase:\n").replace(" ", "...")
 
-print(pb)
+    print(inpt)
+
+if __name__ == "__main__":
+    main()
