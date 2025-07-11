@@ -1,13 +1,7 @@
+def main():
+    inpt = input("Enter a phrase with a smiley face (e.g., 'Hello World :)':\n").replace(":)", "🙂").replace(":(", "🙁")
 
-def main() :
-    phrase = str(input("Say something with an emoji :\n"))
-    phrase = convert(phrase)
-    print(phrase)
+    print(inpt)
 
-def convert(phrase) :
-    #phrase = phrase.replace(":)", "🙂")
-    #phrase = phrase.replace(":(", "🙁")
-    phrase = phrase.replace(":)", "🙂").replace(":(", "🙁")
-    return phrase
-
-main()
+if __name__ == "__main__":
+    main()
