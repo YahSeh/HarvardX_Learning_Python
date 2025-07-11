@@ -1,7 +1,6 @@
-def main() :
-    mass = int(input("m = "))
-    energy = mass * (300000000 ** 2)
-    print("E =", energy)
+def main():
+    m = int(input("m: "))
+    print(f"E: {m*(300000000**2)}")
 
-
-main()
+if __name__ == "__main__":
+    main()
