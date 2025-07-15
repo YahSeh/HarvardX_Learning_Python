@@ -42,7 +42,7 @@ Then, in that same file, implement a function called main that prompts the user 
 
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python faces.py. Type Hello :) and press Enter. Your program should output: Hello 🙂</li>
 <li>Run your program with python faces.py. Type Goodbye :( and press Enter. Your program should output: Goodbye 🙁</li>
@@ -57,7 +57,7 @@ In a file called einstein.py, implement a program in Python that prompts the use
 
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python einstein.py. Type 1 and press Enter. Your program should output: 90000000000000000</li>
 <li>Run your program with python einstein.py. Type 14 and press Enter. Your program should output: 1260000000000000000</li>
@@ -91,7 +91,7 @@ Well, we’ve written most of a tip calculator for you. Unfortunately, we didn�
 
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python tip.py. Type $50.00 and press Enter. Then, type 15% and press Enter. Your program should output: Leave $7.50    </li>
 <li>Run your program with python tip.py. Type $100.00 and press Enter. Then, type 18% and press Enter. Your program should output: Leave $18.00</li>
