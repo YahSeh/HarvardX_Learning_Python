@@ -5,7 +5,7 @@ In deep.py, implement a program that prompts the user for the answer to the Grea
 
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python deep.py. Type 42 and press Enter. Your program should output: Yes </li>
 <li>Run your program with python deep.py. Type Forty Two and press Enter. Your program should output: Yes</li>
@@ -50,7 +50,7 @@ In a file called extensions.py, implement a program that prompts the user for th
 <br>
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python extensions.py. Type happy.jpg and press Enter. Your program should output: image/jpeg   </li>
 <li>Run your program with python extensions.py. Type document.pdf and press Enter. Your program should output: application/pdf</li>
@@ -73,7 +73,7 @@ Note that, just as python itself is an interpreter for Python, so will your inte
 
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python interpreter.py. Type 1 + 1 and press Enter. Your program should output: 2.0 </li>
 <li>Run your program with python interpreter.py. Type 2 - 3 and press Enter. Your program should output: -1.0</li>
@@ -98,7 +98,7 @@ If up for a challenge, optionally add support for 12-hour times, allowing the us
 
 <h3>How to test</h3>
 
-  Here’s how to test your code manually. At the indoor/ $ prompt in your terminal:
+  Here’s how to test your code manually:
 
 <li>Run your program with python meal.py. Type 7:00 and press Enter. Your program should output: breakfast time   </li>
 <li>Run your program with python meal.py. Type 7:30 and press Enter. Your program should output: breakfast time</li>
