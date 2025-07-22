@@ -70,7 +70,7 @@ In a file called grocery.py, implement a program that prompts the user for items
 1 TORTILLA</li>
 <br>
 
-<h1>Einstein</h1>
+<h1>Outdated</h1>
 
 In the United States, dates are typically formatted in month-day-year order (MM/DD/YYYY), otherwise known as middle-endian order, which is arguably bad design. Dates in that format can’t be easily sorted because the date’s year comes last instead of first. Try sorting, for instance, 2/2/1800, 3/3/1900, and 1/1/2000 chronologically in any program (e.g., a spreadsheet). Dates in that format are also ambiguous. Harvard was founded on September 8, 1636, but 9/8/1636 could also be interpreted as August 9, 1636!
 
